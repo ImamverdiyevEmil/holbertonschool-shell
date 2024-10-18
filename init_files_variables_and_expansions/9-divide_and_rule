@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $result32
+echo $(( $DIVIDE / $POWER))
